@@ -3,7 +3,7 @@ TRICK OR TREAT
 **CHALLENGE DESCRIPTION:**
 
 Everyone knows what Halloween is and how children love it. Children in costumes travel from house to house asking for treats with a phrase "Trick or treat". After that, they divide the treats equally among all. This year, they collected tons of candies, and need your help to share everything equally. 
-You know that children receive different number of candies depending on their costume: vampire gets 3 candies from one house, zombie ¡V 4 candies, and witch ¡V 5 candies. 
+You know that children receive different number of candies depending on their costume: vampire gets 3 candies from one house, zombie - 4 candies, and witch - 5 candies. 
 That is, three children in three different costumes get 3+4+5=12 candies from one house.
 
 **INPUT SAMPLE:**
